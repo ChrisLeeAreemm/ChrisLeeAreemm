@@ -15,8 +15,8 @@
 </a>
 
 #### EasySwoole —— 基于swoole的高性能协程框架
-<a href="https://github.com/imiphp/imi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=imiphp&repo=imi&theme=dark&bg_color=0d1117&hide_border=true" />
+<a href="https://github.com/easy-swoole/easyswoole">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=easy-swoole&repo=easyswoole&theme=dark&bg_color=0d1117&hide_border=true" />
 </a>
 
 #### imi框架etcd组件
