@@ -6,4 +6,3 @@
 [![Blog:chrisleesir](https://img.shields.io/badge/Blog:chrisleesir-orange)](https://www.chrisleesir.com/)
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisLeeAreemm)](https://github.com/ChrisLeeAreemm/)
-<img src="https://github-profile-trophy.vercel.app/?username=ChrisLeeAreemm"/>
